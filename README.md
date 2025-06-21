@@ -13,14 +13,6 @@
 ###  Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhs6493)](https://solved.ac/rhs6493/)
 
-## 📝 Projects
-### PetFoodShop
-Notion - [PetFoodShop](https://impossible-spinach-4e0.notion.site/PetFoodShop-53e8dd61f46d45b3b19861badb865648)
-
-GitHub - [PetFoodShop](https://github.com/RyuHyunseok/project-PetfoodShop)
-
-
-### EasyRP
 
 ## 💪 Skills
 ### Platforms & Languages
@@ -41,3 +33,4 @@ GitHub - [PetFoodShop](https://github.com/RyuHyunseok/project-PetfoodShop)
 ## 📞 Contact
 - Email | rhs6493@naver.com
 - Github | https://github.com/RyuHyunseok
+- Notion | https://www.notion.so/1bb9fe026e4180faada4e26b426f0923?source=copy_link
