@@ -2,14 +2,17 @@
 끊임없이 **도전**하고 **성장**하는 개발자가 되고 싶습니다.
 
 ## 📂 Profile
+### Career
+- **(주)오토소프트** - (2026.03.30 ~ )
+
 ### Education
 - **경북대학교** - 전기공학과 졸업
 - **SSAFY** - 삼성 청년 SW 아카데미 12기(2024.07.02 ~ 2025.06.24)
 - **학점은행제** - 컴퓨터공학 학사
 
 ###  Certificate
-- 컴퓨터 활용 능력 1급
 - 정보처리기사
+- 컴퓨터 활용 능력 1급
 
 ###  Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhs6493)](https://solved.ac/rhs6493/)
