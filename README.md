@@ -13,6 +13,7 @@
 ###  Certificate
 - 정보처리기사
 - 리눅스 마스터 1급
+- ISTQB-CTFL
 - 컴퓨터 활용 능력 1급
 
 ###  Baekjoon
